@@ -1,0 +1,49 @@
+
+Practica 1 - Equipo 5
+
+Copia de la salida en terminal:
+
+
+C:\Users\Max\AppData\Local\Programs\Python\Python312\python.exe C:\Users\Max\Downloads\Redes-de-Computadoras-main\Redes-de-Computadoras-main\practica_1\server1.py
+ * Serving Flask app 'server1'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+127.0.0.1 - - [22/Sep/2026 22:22:51] "GET /iniciar HTTP/1.1" 200 -
+127.0.0.1 - - [22/Sep/2026 22:22:53] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 2
+127.0.0.1 - - [22/Sep/2026 22:22:54] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 5
+127.0.0.1 - - [22/Sep/2026 22:22:55] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 8
+[Diego] Mensaje recibido. Valor actual: 11
+127.0.0.1 - - [22/Sep/2026 22:22:56] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 14
+127.0.0.1 - - [22/Sep/2026 22:22:57] "POST /recibir HTTP/1.1" 200 -
+127.0.0.1 - - [22/Sep/2026 22:22:58] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 17
+[Diego] Mensaje recibido. Valor actual: 20
+127.0.0.1 - - [22/Sep/2026 22:22:59] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 23
+127.0.0.1 - - [22/Sep/2026 22:23:00] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 26
+127.0.0.1 - - [22/Sep/2026 22:23:01] "POST /recibir HTTP/1.1" 200 -
+127.0.0.1 - - [22/Sep/2026 22:23:02] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 29
+127.0.0.1 - - [22/Sep/2026 22:23:03] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 32
+[Diego] Mensaje recibido. Valor actual: 35
+127.0.0.1 - - [22/Sep/2026 22:23:04] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 38
+127.0.0.1 - - [22/Sep/2026 22:23:05] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 41
+127.0.0.1 - - [22/Sep/2026 22:23:05] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 44
+127.0.0.1 - - [22/Sep/2026 22:23:06] "POST /recibir HTTP/1.1" 200 -
+127.0.0.1 - - [22/Sep/2026 22:23:07] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 47
+127.0.0.1 - - [22/Sep/2026 22:23:08] "POST /recibir HTTP/1.1" 200 -
+[Diego] Mensaje recibido. Valor actual: 50
+Hasta aqui. El ganador es: luis
+127.0.0.1 - - [22/Sep/2026 22:23:09] "POST /recibir HTTP/1.1" 200 -
